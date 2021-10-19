@@ -1,0 +1,16 @@
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\1.ChapterOne1.41\bin\Debug\net5.0\1.ChapterOne1.41.exe
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\1.ChapterOne1.41\bin\Debug\net5.0\1.ChapterOne1.41.deps.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\1.ChapterOne1.41\bin\Debug\net5.0\1.ChapterOne1.41.runtimeconfig.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\1.ChapterOne1.41\bin\Debug\net5.0\1.ChapterOne1.41.runtimeconfig.dev.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\1.ChapterOne1.41\bin\Debug\net5.0\1.ChapterOne1.41.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\1.ChapterOne1.41\bin\Debug\net5.0\ref\1.ChapterOne1.41.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\1.ChapterOne1.41\bin\Debug\net5.0\1.ChapterOne1.41.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\1.ChapterOne1.41\obj\Debug\net5.0\1.ChapterOne1.41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\1.ChapterOne1.41\obj\Debug\net5.0\1.ChapterOne1.41.AssemblyInfoInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\1.ChapterOne1.41\obj\Debug\net5.0\1.ChapterOne1.41.AssemblyInfo.cs
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\1.ChapterOne1.41\obj\Debug\net5.0\1.ChapterOne1.41.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\1.ChapterOne1.41\obj\Debug\net5.0\1.ChapterOne1.41.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\1.ChapterOne1.41\obj\Debug\net5.0\ref\1.ChapterOne1.41.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\1.ChapterOne1.41\obj\Debug\net5.0\1.ChapterOne1.41.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\1.ChapterOne1.41\obj\Debug\net5.0\1.ChapterOne1.41.genruntimeconfig.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\1.ChapterOne1.41\obj\Debug\net5.0\1.ChapterOne1.41.csprojAssemblyReference.cache

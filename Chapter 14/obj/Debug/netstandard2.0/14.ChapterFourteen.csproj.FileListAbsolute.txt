@@ -1,0 +1,9 @@
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\14.ChapterFourteen\obj\Debug\netstandard2.0\14.ChapterFourteen.AssemblyInfoInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\14.ChapterFourteen\obj\Debug\netstandard2.0\14.ChapterFourteen.AssemblyInfo.cs
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\14.ChapterFourteen\obj\Debug\netstandard2.0\14.ChapterFourteen.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\14.ChapterFourteen\bin\Debug\netstandard2.0\14.ChapterFourteen.deps.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\14.ChapterFourteen\bin\Debug\netstandard2.0\14.ChapterFourteen.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\14.ChapterFourteen\bin\Debug\netstandard2.0\14.ChapterFourteen.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\14.ChapterFourteen\obj\Debug\netstandard2.0\14.ChapterFourteen.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\14.ChapterFourteen\obj\Debug\netstandard2.0\14.ChapterFourteen.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\14.ChapterFourteen\obj\Debug\netstandard2.0\14.ChapterFourteen.csprojAssemblyReference.cache

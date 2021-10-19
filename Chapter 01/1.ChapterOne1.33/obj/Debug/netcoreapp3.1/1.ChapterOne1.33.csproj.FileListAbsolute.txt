@@ -1,0 +1,12 @@
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOne1.33\bin\Debug\netcoreapp3.1\1.ChapterOne1.33.exe
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOne1.33\bin\Debug\netcoreapp3.1\1.ChapterOne1.33.deps.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOne1.33\bin\Debug\netcoreapp3.1\1.ChapterOne1.33.runtimeconfig.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOne1.33\bin\Debug\netcoreapp3.1\1.ChapterOne1.33.runtimeconfig.dev.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOne1.33\bin\Debug\netcoreapp3.1\1.ChapterOne1.33.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOne1.33\bin\Debug\netcoreapp3.1\1.ChapterOne1.33.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOne1.33\obj\Debug\netcoreapp3.1\1.ChapterOne1.33.AssemblyInfoInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOne1.33\obj\Debug\netcoreapp3.1\1.ChapterOne1.33.AssemblyInfo.cs
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOne1.33\obj\Debug\netcoreapp3.1\1.ChapterOne1.33.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOne1.33\obj\Debug\netcoreapp3.1\1.ChapterOne1.33.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOne1.33\obj\Debug\netcoreapp3.1\1.ChapterOne1.33.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOne1.33\obj\Debug\netcoreapp3.1\1.ChapterOne1.33.genruntimeconfig.cache

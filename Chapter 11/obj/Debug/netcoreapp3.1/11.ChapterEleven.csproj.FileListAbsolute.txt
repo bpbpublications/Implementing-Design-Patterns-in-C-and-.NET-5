@@ -1,0 +1,14 @@
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\11.ChapterEleven\obj\Debug\netcoreapp3.1\11.ChapterEleven.AssemblyInfoInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\11.ChapterEleven\obj\Debug\netcoreapp3.1\11.ChapterEleven.AssemblyInfo.cs
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\11.ChapterEleven\obj\Debug\netcoreapp3.1\11.ChapterEleven.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\11.ChapterEleven\bin\Debug\netcoreapp3.1\11.ChapterEleven.exe
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\11.ChapterEleven\bin\Debug\netcoreapp3.1\11.ChapterEleven.deps.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\11.ChapterEleven\bin\Debug\netcoreapp3.1\11.ChapterEleven.runtimeconfig.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\11.ChapterEleven\bin\Debug\netcoreapp3.1\11.ChapterEleven.runtimeconfig.dev.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\11.ChapterEleven\bin\Debug\netcoreapp3.1\11.ChapterEleven.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\11.ChapterEleven\bin\Debug\netcoreapp3.1\11.ChapterEleven.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\11.ChapterEleven\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\11.ChapterEleven\obj\Debug\netcoreapp3.1\11.ChapterEleven.csproj.CopyComplete
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\11.ChapterEleven\obj\Debug\netcoreapp3.1\11.ChapterEleven.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\11.ChapterEleven\obj\Debug\netcoreapp3.1\11.ChapterEleven.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\11.ChapterEleven\obj\Debug\netcoreapp3.1\11.ChapterEleven.genruntimeconfig.cache

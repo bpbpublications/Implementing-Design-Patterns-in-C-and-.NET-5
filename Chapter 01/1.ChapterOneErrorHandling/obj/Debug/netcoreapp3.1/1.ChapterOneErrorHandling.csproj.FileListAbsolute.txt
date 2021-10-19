@@ -1,0 +1,12 @@
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneErrorHandling\bin\Debug\netcoreapp3.1\1.ChapterOneErrorHandling.exe
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneErrorHandling\bin\Debug\netcoreapp3.1\1.ChapterOneErrorHandling.deps.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneErrorHandling\bin\Debug\netcoreapp3.1\1.ChapterOneErrorHandling.runtimeconfig.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneErrorHandling\bin\Debug\netcoreapp3.1\1.ChapterOneErrorHandling.runtimeconfig.dev.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneErrorHandling\bin\Debug\netcoreapp3.1\1.ChapterOneErrorHandling.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneErrorHandling\bin\Debug\netcoreapp3.1\1.ChapterOneErrorHandling.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneErrorHandling\obj\Debug\netcoreapp3.1\1.ChapterOneErrorHandling.AssemblyInfoInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneErrorHandling\obj\Debug\netcoreapp3.1\1.ChapterOneErrorHandling.AssemblyInfo.cs
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneErrorHandling\obj\Debug\netcoreapp3.1\1.ChapterOneErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneErrorHandling\obj\Debug\netcoreapp3.1\1.ChapterOneErrorHandling.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneErrorHandling\obj\Debug\netcoreapp3.1\1.ChapterOneErrorHandling.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneErrorHandling\obj\Debug\netcoreapp3.1\1.ChapterOneErrorHandling.genruntimeconfig.cache

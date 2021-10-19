@@ -1,0 +1,13 @@
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\9.ChapterNine\bin\Debug\netcoreapp3.1\9.ChapterNine.exe
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\9.ChapterNine\bin\Debug\netcoreapp3.1\9.ChapterNine.deps.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\9.ChapterNine\bin\Debug\netcoreapp3.1\9.ChapterNine.runtimeconfig.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\9.ChapterNine\bin\Debug\netcoreapp3.1\9.ChapterNine.runtimeconfig.dev.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\9.ChapterNine\bin\Debug\netcoreapp3.1\9.ChapterNine.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\9.ChapterNine\bin\Debug\netcoreapp3.1\9.ChapterNine.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\9.ChapterNine\obj\Debug\netcoreapp3.1\9.ChapterNine.AssemblyInfoInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\9.ChapterNine\obj\Debug\netcoreapp3.1\9.ChapterNine.AssemblyInfo.cs
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\9.ChapterNine\obj\Debug\netcoreapp3.1\9.ChapterNine.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\9.ChapterNine\obj\Debug\netcoreapp3.1\9.ChapterNine.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\9.ChapterNine\obj\Debug\netcoreapp3.1\9.ChapterNine.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\9.ChapterNine\obj\Debug\netcoreapp3.1\9.ChapterNine.genruntimeconfig.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\9.ChapterNine\obj\Debug\netcoreapp3.1\9.ChapterNine.csprojAssemblyReference.cache

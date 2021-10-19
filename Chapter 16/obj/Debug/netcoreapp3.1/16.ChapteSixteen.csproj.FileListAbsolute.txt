@@ -1,0 +1,12 @@
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\16.ChapteSixteen\bin\Debug\netcoreapp3.1\16.ChapteSixteen.exe
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\16.ChapteSixteen\bin\Debug\netcoreapp3.1\16.ChapteSixteen.deps.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\16.ChapteSixteen\bin\Debug\netcoreapp3.1\16.ChapteSixteen.runtimeconfig.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\16.ChapteSixteen\bin\Debug\netcoreapp3.1\16.ChapteSixteen.runtimeconfig.dev.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\16.ChapteSixteen\bin\Debug\netcoreapp3.1\16.ChapteSixteen.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\16.ChapteSixteen\bin\Debug\netcoreapp3.1\16.ChapteSixteen.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\16.ChapteSixteen\obj\Debug\netcoreapp3.1\16.ChapteSixteen.AssemblyInfoInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\16.ChapteSixteen\obj\Debug\netcoreapp3.1\16.ChapteSixteen.AssemblyInfo.cs
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\16.ChapteSixteen\obj\Debug\netcoreapp3.1\16.ChapteSixteen.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\16.ChapteSixteen\obj\Debug\netcoreapp3.1\16.ChapteSixteen.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\16.ChapteSixteen\obj\Debug\netcoreapp3.1\16.ChapteSixteen.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\16.ChapteSixteen\obj\Debug\netcoreapp3.1\16.ChapteSixteen.genruntimeconfig.cache

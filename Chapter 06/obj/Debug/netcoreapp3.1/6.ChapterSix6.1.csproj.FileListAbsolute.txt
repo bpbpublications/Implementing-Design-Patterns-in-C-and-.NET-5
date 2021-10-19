@@ -1,0 +1,15 @@
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\6.ChapterSix6.1\bin\Debug\netcoreapp3.1\6.ChapterSix6.1.exe
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\6.ChapterSix6.1\bin\Debug\netcoreapp3.1\6.ChapterSix6.1.deps.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\6.ChapterSix6.1\bin\Debug\netcoreapp3.1\6.ChapterSix6.1.runtimeconfig.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\6.ChapterSix6.1\bin\Debug\netcoreapp3.1\6.ChapterSix6.1.runtimeconfig.dev.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\6.ChapterSix6.1\bin\Debug\netcoreapp3.1\6.ChapterSix6.1.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\6.ChapterSix6.1\bin\Debug\netcoreapp3.1\6.ChapterSix6.1.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\6.ChapterSix6.1\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Word.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\6.ChapterSix6.1\obj\Debug\netcoreapp3.1\6.ChapterSix6.1.AssemblyInfoInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\6.ChapterSix6.1\obj\Debug\netcoreapp3.1\6.ChapterSix6.1.AssemblyInfo.cs
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\6.ChapterSix6.1\obj\Debug\netcoreapp3.1\6.ChapterSix6.1.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\6.ChapterSix6.1\obj\Debug\netcoreapp3.1\6.ChapterSix6.1.csproj.CopyComplete
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\6.ChapterSix6.1\obj\Debug\netcoreapp3.1\6.ChapterSix6.1.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\6.ChapterSix6.1\obj\Debug\netcoreapp3.1\6.ChapterSix6.1.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\6.ChapterSix6.1\obj\Debug\netcoreapp3.1\6.ChapterSix6.1.genruntimeconfig.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\6.ChapterSix6.1\obj\Debug\netcoreapp3.1\6.ChapterSix6.1.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\4.ChapterFour\bin\Debug\netstandard2.1\4.ChapterFour.deps.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\4.ChapterFour\bin\Debug\netstandard2.1\4.ChapterFour.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\4.ChapterFour\bin\Debug\netstandard2.1\4.ChapterFour.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\4.ChapterFour\obj\Debug\netstandard2.1\4.ChapterFour.AssemblyInfoInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\4.ChapterFour\obj\Debug\netstandard2.1\4.ChapterFour.AssemblyInfo.cs
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\4.ChapterFour\obj\Debug\netstandard2.1\4.ChapterFour.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\4.ChapterFour\obj\Debug\netstandard2.1\4.ChapterFour.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\4.ChapterFour\obj\Debug\netstandard2.1\4.ChapterFour.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\4.ChapterFour\obj\Debug\netstandard2.1\4.ChapterFour.csprojAssemblyReference.cache

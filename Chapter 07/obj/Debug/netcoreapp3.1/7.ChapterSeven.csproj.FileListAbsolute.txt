@@ -1,0 +1,12 @@
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\7.ChapterSeven\bin\Debug\netcoreapp3.1\7.ChapterSeven.exe
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\7.ChapterSeven\bin\Debug\netcoreapp3.1\7.ChapterSeven.deps.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\7.ChapterSeven\bin\Debug\netcoreapp3.1\7.ChapterSeven.runtimeconfig.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\7.ChapterSeven\bin\Debug\netcoreapp3.1\7.ChapterSeven.runtimeconfig.dev.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\7.ChapterSeven\bin\Debug\netcoreapp3.1\7.ChapterSeven.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\7.ChapterSeven\bin\Debug\netcoreapp3.1\7.ChapterSeven.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\7.ChapterSeven\obj\Debug\netcoreapp3.1\7.ChapterSeven.AssemblyInfoInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\7.ChapterSeven\obj\Debug\netcoreapp3.1\7.ChapterSeven.AssemblyInfo.cs
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\7.ChapterSeven\obj\Debug\netcoreapp3.1\7.ChapterSeven.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\7.ChapterSeven\obj\Debug\netcoreapp3.1\7.ChapterSeven.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\7.ChapterSeven\obj\Debug\netcoreapp3.1\7.ChapterSeven.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\7.ChapterSeven\obj\Debug\netcoreapp3.1\7.ChapterSeven.genruntimeconfig.cache

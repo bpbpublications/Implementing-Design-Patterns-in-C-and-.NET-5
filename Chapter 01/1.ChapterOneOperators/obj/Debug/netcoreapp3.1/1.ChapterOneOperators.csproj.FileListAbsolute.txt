@@ -1,0 +1,13 @@
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneOperators\bin\Debug\netcoreapp3.1\1.ChapterOneOperators.exe
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneOperators\bin\Debug\netcoreapp3.1\1.ChapterOneOperators.deps.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneOperators\bin\Debug\netcoreapp3.1\1.ChapterOneOperators.runtimeconfig.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneOperators\bin\Debug\netcoreapp3.1\1.ChapterOneOperators.runtimeconfig.dev.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneOperators\bin\Debug\netcoreapp3.1\1.ChapterOneOperators.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneOperators\bin\Debug\netcoreapp3.1\1.ChapterOneOperators.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneOperators\obj\Debug\netcoreapp3.1\1.ChapterOneOperators.AssemblyInfoInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneOperators\obj\Debug\netcoreapp3.1\1.ChapterOneOperators.AssemblyInfo.cs
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneOperators\obj\Debug\netcoreapp3.1\1.ChapterOneOperators.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneOperators\obj\Debug\netcoreapp3.1\1.ChapterOneOperators.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneOperators\obj\Debug\netcoreapp3.1\1.ChapterOneOperators.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneOperators\obj\Debug\netcoreapp3.1\1.ChapterOneOperators.genruntimeconfig.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneOperators\obj\Debug\netcoreapp3.1\1.ChapterOneOperators.csprojAssemblyReference.cache

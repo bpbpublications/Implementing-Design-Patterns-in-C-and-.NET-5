@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TkVWPv6shYIKzEVAiH1mXotrs0R0NL5VN5tLGXXU4alVwBcXRiVqkxdHWdcHj5ZXMdYINhrRtcUboloBMnv3TA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexandre Malavasi\\Desktop\\BPBDesignPatternWithCSharpAndDotNetCore\\BPB - 267 - Code bundle\\11.ChapterEleven\\11.ChapterEleven.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexandre Malavasi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

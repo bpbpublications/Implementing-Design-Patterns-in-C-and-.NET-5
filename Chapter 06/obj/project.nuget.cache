@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "tuRlU5+Qt4Ryiug60Pxze4fumq5SlBXbvOFzy3ExNwmc26LCEcqI/QXX7NSAcWxFuPqi/g3vaxDDHcTujk9hRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexandre Malavasi\\Desktop\\BPBDesignPatternWithCSharpAndDotNetCore\\BPB - 267 - Code bundle\\6.ChapterSix6.1\\6.ChapterSix6.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexandre Malavasi\\.nuget\\packages\\microsoft.office.interop.word\\15.0.4797.1003\\microsoft.office.interop.word.15.0.4797.1003.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Office.Interop.Word 15.0.4797.1003' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Office.Interop.Word",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

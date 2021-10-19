@@ -1,0 +1,8 @@
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\5.ChapterFive\bin\Debug\netstandard2.0\5.ChapterFive.deps.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\5.ChapterFive\bin\Debug\netstandard2.0\5.ChapterFive.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\5.ChapterFive\bin\Debug\netstandard2.0\5.ChapterFive.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\5.ChapterFive\obj\Debug\netstandard2.0\5.ChapterFive.AssemblyInfoInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\5.ChapterFive\obj\Debug\netstandard2.0\5.ChapterFive.AssemblyInfo.cs
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\5.ChapterFive\obj\Debug\netstandard2.0\5.ChapterFive.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\5.ChapterFive\obj\Debug\netstandard2.0\5.ChapterFive.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\5.ChapterFive\obj\Debug\netstandard2.0\5.ChapterFive.pdb

@@ -1,0 +1,13 @@
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneLoopsAndIterations\bin\Debug\netcoreapp3.1\1.ChapterOneLoopsAndIterations.exe
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneLoopsAndIterations\bin\Debug\netcoreapp3.1\1.ChapterOneLoopsAndIterations.deps.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneLoopsAndIterations\bin\Debug\netcoreapp3.1\1.ChapterOneLoopsAndIterations.runtimeconfig.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneLoopsAndIterations\bin\Debug\netcoreapp3.1\1.ChapterOneLoopsAndIterations.runtimeconfig.dev.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneLoopsAndIterations\bin\Debug\netcoreapp3.1\1.ChapterOneLoopsAndIterations.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneLoopsAndIterations\bin\Debug\netcoreapp3.1\1.ChapterOneLoopsAndIterations.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneLoopsAndIterations\obj\Debug\netcoreapp3.1\1.ChapterOneLoopsAndIterations.AssemblyInfoInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneLoopsAndIterations\obj\Debug\netcoreapp3.1\1.ChapterOneLoopsAndIterations.AssemblyInfo.cs
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneLoopsAndIterations\obj\Debug\netcoreapp3.1\1.ChapterOneLoopsAndIterations.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneLoopsAndIterations\obj\Debug\netcoreapp3.1\1.ChapterOneLoopsAndIterations.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneLoopsAndIterations\obj\Debug\netcoreapp3.1\1.ChapterOneLoopsAndIterations.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneLoopsAndIterations\obj\Debug\netcoreapp3.1\1.ChapterOneLoopsAndIterations.genruntimeconfig.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\ChapterOneLoopsAndIterations\obj\Debug\netcoreapp3.1\1.ChapterOneLoopsAndIterations.csprojAssemblyReference.cache

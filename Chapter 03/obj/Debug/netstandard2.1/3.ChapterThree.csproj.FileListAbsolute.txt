@@ -1,0 +1,9 @@
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\3.ChapterThree\bin\Debug\netstandard2.1\3.ChapterThree.deps.json
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\3.ChapterThree\bin\Debug\netstandard2.1\3.ChapterThree.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\3.ChapterThree\bin\Debug\netstandard2.1\3.ChapterThree.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\3.ChapterThree\obj\Debug\netstandard2.1\3.ChapterThree.AssemblyInfoInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\3.ChapterThree\obj\Debug\netstandard2.1\3.ChapterThree.AssemblyInfo.cs
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\3.ChapterThree\obj\Debug\netstandard2.1\3.ChapterThree.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\3.ChapterThree\obj\Debug\netstandard2.1\3.ChapterThree.dll
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\3.ChapterThree\obj\Debug\netstandard2.1\3.ChapterThree.pdb
+C:\Users\Alexandre Malavasi\source\repos\BPBDesignPatternWithCSharpAndDotNetCore\3.ChapterThree\obj\Debug\netstandard2.1\3.ChapterThree.csprojAssemblyReference.cache
